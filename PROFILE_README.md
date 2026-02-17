@@ -15,6 +15,14 @@ Network & Infrastructure Support Engineer with **15+ years of experience** in en
 
 ---
 
+### 🚀 Technical Labs & Tooling
+- **[Helpdesk Ticketing Lab](https://github.com/mmmahen/helpdesk-ticketing-lab)**: Dockerized osTicket environment for ITSM workflow practice.
+- **[Python CLI Toolkit](https://github.com/mmmahen/Python-CLI-Toolkit)**: Security & networking utility kit (Ping sweeper, IP lookup, Password gen).
+- **[Vulnerability Scanner](https://github.com/mmmahen/Vulnerability-Scanner-Python-Flask-)**: Flask-based web app for automated security checks.
+- **[Linux Permissions Lab](https://github.com/mmmahen/Linux-User-Permissions-Management-Lab)**: Practical sysadmin scripting for user/group auditing.
+
+---
+
 ### 📈 Career Highlights
 - **Maintained 99% infrastructure uptime** through proactive monitoring.
 - **Improved patch compliance by 25%** through structured management.
