@@ -1,29 +1,31 @@
-# Mahendran .M | Cybersecurity Professional 🛡️
+# Mahendran .M | Senior Systems & Infrastructure Engineer 🛡️
 
-[Portfolio Website](https://portfolio.example.com) | [LinkedIn](https://linkedin.com/in/mahendran-m)
+[LinkedIn](https://linkedin.com/in/mahendran-m) | Dubai, UAE | +971 50 1323 044 | mmmahen15@gmail.com
 
-### 🚀 About Me
-Experienced **Network & Security Professional** with a strong focus on Cybersecurity. Currently deepening expertise in SOC operations, SIEM monitoring, and incident response. CompTIA Security+ Certified.
-
----
-
-### 🛠️ Technical Arsenal
-- **Security Operations**: SIEM (Splunk/ELK), Log Analysis, Incident Detection & Response.
-- **Infrastructure**: Firewalls, IDS/IPS, Network Segmentation, VPNs.
-- **Frameworks**: NIST, ISO 27001, Vulnerability Management.
-- **Systems**: Linux, Windows Server, Virtualization (VMWare/VirtualBox).
+### 🚀 Professional Summary
+Network & Infrastructure Support Engineer with **15+ years of experience** in enterprise IT environments. Expertise in delivering L2/L3 support across multi-branch infrastructures, maintaining **99% uptime**, and reducing network downtime by 20%. Skilled in hybrid infrastructure support, incident management, and root cause analysis.
 
 ---
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 🛠️ Core Competencies
+- **Infrastructure & Systems**: Windows Server (2012–2019), AD, DNS, DHCP, GPO, VMware ESXi 8.0, Dell VxRail, Hyper-V.
+- **Networking**: Enterprise Network Support (MPLS, WAN/LAN, VLAN, OSPF), FortiGate Firewall (NAT, VPN, Security Policies).
+- **Cloud & Productivity**: AWS Cloud (EC2, VPC, IAM, S3), Microsoft 365 (Exchange Online, Teams, MFA, License Management).
+- **Operations & Security**: ITIL, Incident Management, Service Desk, Patch Management, Veeam Backup & DR.
 
 ---
 
-### 📫 Let's Secure a Connection
-- **Currently learning**: Cloud Security Architecture (AWS/Azure)
-- **Open to**: Entry-to-mid level SOC Analyst roles.
+### 📈 Career Highlights
+- **Maintained 99% infrastructure uptime** through proactive monitoring.
+- **Improved patch compliance by 25%** through structured management.
+- **Reduced network downtime by 20%** via routing optimization.
 
 ---
-*"Securing the future, one packet at a time."*
+
+### 📫 Let's Connect
+- **Status**: Immediate Joiner (Dubai, UAE)
+- **Currently Learning**: CompTIA Security+ (Final Stages)
+- **Certifications**: CCNA (Cisco ID: CSCO11479321)
+
+---
+*"Securing and optimizing enterprise infrastructures for a resilient future."*
