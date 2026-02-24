@@ -11,8 +11,8 @@ Network & Infrastructure Support Engineer with **15+ years of experience** deliv
 ### 🛠️ Core Competencies
 - **Infrastructure & Systems**: Windows Server (2012–2019), AD, DNS, DHCP, GPO, VMware ESXi 8.0, Dell VxRail, Hyper-V.
 - **Networking**: Enterprise Network Support (MPLS, WAN/LAN, VLAN, OSPF), FortiGate Firewall (NAT, VPN, Security Policies).
-- **Cloud & Productivity**: Microsoft 365 (Exchange Online, Teams, MFA), AWS Cloud Fundamentals (EC2, VPC, IAM - Basic Knowledge).
-- **Operations & Security**: ITIL, Incident & Service Request Management, Patch Management, Trellix Endpoint Security, Veeam Backup & DR.
+- **Cloud & Productivity**: Microsoft 365 (Exchange Online, Teams, MFA), Microsoft Azure Fundamentals (VM, VNet, NSG, Storage, IAM)
+- **Operations & Security**: Incident & Service Request Management, Patch Management, Trellix Endpoint Security, Veeam Backup & DR.
 
 ---
 
@@ -45,7 +45,7 @@ Network & Infrastructure Support Engineer with **15+ years of experience** deliv
 ### 🎓 Education & Certifications
 - **Bachelor of Computer Applications** – Annamalai University
 - **Diploma in Computer Technology** – Vinayaka Missions
-- **Certifications**: CCNA (Cisco ID: CSCO11479321), CompTIA Security+ (In Progress)
+- **Certifications**: CCNA (Cisco ID: CSCO11479321), Microsoft Azure Fundamentals – Simplilearn, CompTIA Security+ (In Progress)
 - **Languages**: English, Tamil, Hindi
 
 ---
